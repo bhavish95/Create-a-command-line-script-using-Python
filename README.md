@@ -16,9 +16,12 @@ Now checking is our Docker is installed or not
 
 ![image](https://github.com/bhavish95/Create-a-command-line-script-using-Python/assets/111994995/f45cc90a-2fc4-4d54-be91-4fd6807a7026)
 # Step4- Add another subcommand to enable/disable the site (stopping/starting the containers
+
+to delete a WordPress site along with its Docker containers and related resources.
 ![image](https://github.com/bhavish95/Create-a-command-line-script-using-Python/assets/111994995/ad4643a6-d2cf-4343-b9cf-0917dc6a8a96)
 
 # Step5-Add one more subcommand to delete the site (deleting containers and local files
+Now wordpress site has been deleted:
 ![image](https://github.com/bhavish95/Create-a-command-line-script-using-Python/assets/111994995/9ac5ab2b-5498-4f9f-9468-1e247b16fc83)
 
 
